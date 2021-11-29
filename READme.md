@@ -1,4 +1,6 @@
-# PintOS Project - http://web.stanford.edu/class/cs140/projects/pintos/pintos.html
+# PintOS Project  
+
+http://web.stanford.edu/class/cs140/projects/pintos/pintos.html
 
 ## Project 1 : Threads
 
